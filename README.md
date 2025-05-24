@@ -1,0 +1,17 @@
+package.json
+index.html
+tailwind.config.js
+src/index.css
+src/main.jsx
+src/App.jsx
+src/components/layout/Navbar.jsx
+src/components/layout/Footer.jsx
+src/pages/HomePage.jsx
+src/components/sections/HeroSection.jsx
+src/components/sections/CtaSection.jsx
+src/components/cards/ServiceCard.jsx
+src/components/cards/TestimonialCard.jsx
+src/components/cards/BlogCard.jsx
+src/components/forms/Newsletter.jsx
+src/pages/ServicesPage.jsx
+src/pages/BlogPage.jsx
